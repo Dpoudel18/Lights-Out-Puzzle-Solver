@@ -1,6 +1,6 @@
 # Lights Out Puzzle Solver
 
-A python program that finds solution to any *m x n* Lights Out Puzzle for prime *p* number of colors using Gauss-Jordan Elimination.
+A python program that finds a solution to any *m x n* Lights Out Puzzle for prime *p* number of colors using Gauss-Jordan Elimination.
 
 ## Source File
 
