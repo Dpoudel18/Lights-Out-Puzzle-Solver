@@ -61,10 +61,6 @@ Just Python 3 and you are good to go!
 
 -------
 
-# Lights Out Puzzle Web Interface
-
-## Source File
-
 
 
 ### *In collaboration with Dr. Igor Minevich and Wisdom Boinde at Earlham College.*
